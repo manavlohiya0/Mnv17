@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manav Lohiya @Mnv17
 - 👀 I’m interested in Coding/ Job Opportunities
 - 🌱 I’m currently learning ways to use my potential.
-- 💞️ I’m looking to collaborate on Cloud Architect
+- 💞️ I’m looking to collaborate as Cloud Architect
 - 📫 How to reach me manavlohiya0@gmail.com
 
 <!---
